@@ -17,12 +17,8 @@ To work around this issue, remove the `sku` attribute of the `supportedRuntime` 
 </configuration>
 ```
 
-**Update 9/11/2018**: From the [Microsoft Developer](https://twitter.com/msdev) twitter handle, they said the bug was fixed in 17759.
+**Update 9/11/2018**: From the [Microsoft Developer](https://twitter.com/msdev) twitter handle, they said the bug was [fixed in 17759](https://twitter.com/msdev/status/1039654320034258947).
 
 ![](res/msdevtwit.png?raw=true)
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Nope. Looking like it should be fixed in 59.</p>&mdash; Microsoft Developer (@msdev) <a href="https://twitter.com/msdev/status/1039654320034258947?ref_src=twsrc%5Etfw">September 11, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 **Update 9/12/2018**: This issue was finally added as a know issue in the realese notes for builds [17754](https://blogs.windows.com/windowsexperience/2018/09/05/announcing-windows-10-insider-preview-build-17754/), [17755](https://blogs.windows.com/windowsexperience/2018/09/07/announcing-windows-10-insider-preview-build-17755/) and [17758](https://blogs.windows.com/windowsexperience/2018/09/11/announcing-windows-10-insider-preview-build-17758/).
