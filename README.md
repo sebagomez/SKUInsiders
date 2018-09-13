@@ -6,7 +6,7 @@ Do you see message dialog? bad news 😞
 
 ![](res/error.png?raw=true)
 
-To work around this issue, remove the sku attribute of the supportedRuntime in the App.exe.config file.
+To work around this issue, remove the `sku` attribute of the `supportedRuntime` in the App.exe.config file.
 
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
