@@ -8,7 +8,7 @@ Do you see message dialog? bad news 😞
 
 To work around this issue, remove the sku attribute of the supportedRuntime in the App.exe.config file.
 
-```
+```xml
 <?xml version="1.0" encoding="utf-8" ?>
 <configuration>
     <startup> 
@@ -16,3 +16,5 @@ To work around this issue, remove the sku attribute of the supportedRuntime in t
     </startup>
 </configuration>
 ```
+
+Update 9/12/2018: This issue was finally added as a know issue in the realese notes for build [17754](https://blogs.windows.com/windowsexperience/2018/09/05/announcing-windows-10-insider-preview-build-17754/), [17755](https://blogs.windows.com/windowsexperience/2018/09/07/announcing-windows-10-insider-preview-build-17755/) and [17758](https://blogs.windows.com/windowsexperience/2018/09/11/announcing-windows-10-insider-preview-build-17758/).
