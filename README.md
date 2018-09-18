@@ -17,6 +17,8 @@ To work around this issue, remove the `sku` attribute of the `supportedRuntime` 
 </configuration>
 ```
 
+**Update 9/17/2018**: I tested and it was indeed fixed in [17760](https://blogs.windows.com/windowsexperience/2018/09/14/announcing-windows-10-insider-preview-build-17760/), released to the Fast Ring on 9/14/2018.
+
 **Update 9/11/2018**: From the [Microsoft Developer](https://twitter.com/msdev) twitter handle, they said the bug was [fixed in 17759](https://twitter.com/msdev/status/1039654320034258947).
 
 [![](res/msdevtwit.png?raw=true)](https://twitter.com/msdev/status/1039654320034258947)
